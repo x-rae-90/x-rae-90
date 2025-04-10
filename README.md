@@ -13,4 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: mrs539@drexel.edu
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I learned to drive stickshift at the North Pole
--->
+-
+- I'm interested in working with datasets such as those used in [Solar Astronomy](https://github.com/topics/solar-astronomy)
